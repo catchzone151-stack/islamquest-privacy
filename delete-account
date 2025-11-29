@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>IslamQuest - Account Deletion Request</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; padding: 20px; }
+    h1 { color: #2c3e50; }
+  </style>
+</head>
+<body>
+
+<h1>IslamQuest - Account Deletion Request</h1>
+<p>If you have created a premium account in IslamQuest and wish to delete it, you can request deletion by contacting us using the email address below.</p>
+
+<h2>How to Request Account Deletion</h2>
+<p>Please email us with the subject <strong>"Account Deletion Request"</strong> and include your username.</p>
+
+<p>Email: <strong>catchzone151@gmail.com</strong></p>
+
+<p>Your account and related data will be deleted within 30 days of your request.</p>
+
+</body>
+</html>
